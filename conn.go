@@ -7,9 +7,8 @@ import (
 	"reflect"
 	"sync"
 
-	"gopkg.in/googollee/go-socket.io.v1/parser"
-
-	"gopkg.in/googollee/go-engine.io.v1"
+	"github.com/shiyanlin/go-socket.io/parser"
+	"github.com/shiyanlin/go-engine.io"
 )
 
 // Conn is a connection in go-socket.io

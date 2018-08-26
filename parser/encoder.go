@@ -7,7 +7,7 @@ import (
 	"io"
 	"reflect"
 
-	"gopkg.in/googollee/go-engine.io.v1"
+	"github.com/shiyanlin/go-engine.io"
 )
 
 type FrameWriter interface {
